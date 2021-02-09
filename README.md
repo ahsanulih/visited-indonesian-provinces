@@ -11,4 +11,4 @@ Dibuat untuk Hacktiv8 phase0 final project.
 Pure menggunakan HTML, CSS, dan JavaScript tanpa framework apapun.
 
 Contoh tampilan:
-![Contoh Tampilan](./contoh.png)
+![Contoh Tampilan](./images/contoh.png)
