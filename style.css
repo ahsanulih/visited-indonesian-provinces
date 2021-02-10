@@ -18,6 +18,10 @@
     user-select: none;
 }
 
+g:hover {
+  cursor: pointer;
+}
+
 footer {
     position: fixed;
     bottom: 0;
